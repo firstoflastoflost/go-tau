@@ -1,0 +1,17 @@
+{
+  "urls": [
+    {
+      "address": "127.0.0.1"
+    },
+    {
+      "address": "localhost"
+    },
+    {
+      "address": "127.0.0.2"
+    }
+  ],
+  "options": {
+    "ssl_mode": "http",
+    "http_timeout": 5
+  }
+}
